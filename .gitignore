@@ -1,0 +1,4 @@
+#ignore these folders
+env/
+images/
+ipynb_checkpoints/
